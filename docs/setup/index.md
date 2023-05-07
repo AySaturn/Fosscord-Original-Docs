@@ -1,5 +1,9 @@
-## [Server](server)
+# Setup
 
-## [Bots](bots)
+## [Bots](bots/)
 
-## [Clients](clients)
+## [Server](server/)
+
+## [Hosting](hosting/)
+
+## [Reverse Proxy/HTTPS (NGINX)](HTTPS/)
